@@ -8,7 +8,6 @@
 </div>
 
 ###
-###
 
 <img align="right" height="120" src="https://media.tenor.com/dEoasElm-JgAAAAM/helldivers2-helldiver.gif"  />
 
@@ -74,7 +73,6 @@
 
 </div>
 
-
 ###
 
 <div align="left">
@@ -99,8 +97,6 @@
 </div>
 
 ###
-
-<br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkicewolf50/darkicewolf50/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkicewolf50/darkicewolf50/output/github-snake.svg" />
