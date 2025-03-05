@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Brock and I'm a Full-stack web developer, I am passonate about bringing the backend to low cost high avaiably self-hosted servers</h2>
+<h2 align="left">Hi! My name is Brock and I'm a Full-stack web developer, I am passionate about bringing the backend to low-cost high availably self-hosted servers</h2>
 
 ###
 
