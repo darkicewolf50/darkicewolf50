@@ -103,7 +103,7 @@
 
 ## Profile Visits
 
-<img align="left" src="https://count.getloli.com/@:darkicewolf50v2?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<img align="left" src="https://count.getloli.com/@:darkicewolf50?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
 <br clear="both">
 
