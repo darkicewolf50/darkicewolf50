@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&&text=Hi! I'm Brock&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
 
-<h1 align="center">Hi! My name is Brock and I'm a Full-stack web developer, I am passionate about bringing the backend to low-cost high availably self-hosted servers</h1>
+<h1 align="center">I'm a Full-stack web developer, I am passionate about bringing the backend to low-cost high availably self-hosted servers</h1>
 
 ###
 
@@ -100,94 +100,24 @@
 ###
 
 <br clear="both">
-<div style="display: flex; align-items: flex-start; justify-content: space-between; column-gap:2svb;">
 
-  <!-- Profile Visitors on the left -->
-  <div style="flex: 1; max-width: 50%;">
-    <h2>Profile Visitors</h2>
-    <img src="https://count.getloli.com/@:darkicewolf50?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Visitors" />
-  </div>
+## Profile Visits
 
-  <!-- Social links on the right -->
-  <div style="flex: 1; max-width: 50%;">
-    <table style="border-collapse: collapse; margin: 0; padding: 0; width: 100%;">
-        <!-- Header as first row -->
-        <tr>
-            <td colspan="4" style="text-align: left; padding: 0;">
-            <h2 style="margin: 0;">Socials</h2>
-            </td>
-        </tr>
-        <!-- Hidden row for spacing (optional) -->
-        <tr style="display:none;">
-            <td>&nbsp;</td>
-            <td>Icon</td>
-            <td>Name</td>
-            <td>Link/Value</td>
-        </tr>
-        <!-- Social links -->
-        <tr>
-            <td>•</td>
-            <td><a href="mailto:brock@darkicewolf50.dev" target="_blank" rel="me"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="gmail" /></a></td>
-            <td>Email</td>
-            <td><a href="mailto:brock@darkicewolf50.dev">brock@darkicewolf50.dev</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td>
-                <a href="https://forge.ucalgarybaja.ca/darkicewolf50" target="_blank" rel="me">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/forgejo/forgejo-original.svg" width="32" height="32" alt="forgejo" />
-                </a>
-            </td>
-            <td>Forgejo</td>
-            <td><a href="https://forge.ucalgarybaja.ca/darkicewolf50">darkicewolf50</a></td>
-        </tr>        
-        <tr>
-            <td>•</td>
-            <td>
-                <a href="https://github.com/darkicewolf50" target="_blank" rel="me">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" alt="github" />
-                </a>
-            </td>
-            <td>Github</td>
-            <td><a href="https://github.com/darkicewolf50">darkicewolf50</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td><a href="https://www.linkedin.com/in/brock-tomlinson" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin" /></a></td>
-            <td>LinkedIn</td>
-            <td><a href="https://www.linkedin.com/in/brock-tomlinson">brock-tomlinson</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td><a href="https://www.twitch.tv/darkicewolf50" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="32" height="32" alt="twitch" /></a></td>
-            <td>Twitch</td>
-            <td><a href="https://www.twitch.tv/darkicewolf50">darkicewolf50</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td><a href="https://www.youtube.com/@darkicewolf50" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="32" alt="youtube" /></a></td>
-            <td>YouTube</td>
-            <td><a href="https://www.youtube.com/@darkicewolf50">@darkicewolf50</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td><a href="https://x.com/darkicewolf50" target="_blank" rel="me">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="32" height="32" alt="twitter" /></a></td>
-            <td>X</td>
-            <td><a href="https://x.com/darkicewolf50">darkicewolf50</a></td>
-        </tr>
-        <tr>
-            <td>•</td>
-            <td><a href="https://ko-fi.com/darkicewolf50" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="32" height="32" alt="ko-fi" /></a></td>
-            <td>Ko-fi</td>
-            <td><a href="https://ko-fi.com/darkicewolf50">darkicewolf50</a></td>
-        </tr>
-    </table>
-  </div>
+<img align="left" src="https://count.getloli.com/@:darkicewolf50v2?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
-</div>
+<br clear="both">
 
-###
+## Socials
+
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail" />&nbsp;&nbsp;**Email**&nbsp;&nbsp; - &nbsp; <a href="mailto:brock@darkicewolf50.dev" rel="me">brock@darkicewolf50.dev</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/forgejo/forgejo-original.svg" width="20" height="20" alt="forgejo" />&nbsp;&nbsp;**Forgejo**&nbsp;&nbsp; - &nbsp; <a href="https://forge.ucalgarybaja.ca/darkicewolf50" rel="me">darkicewolf50</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" alt="github" />&nbsp;&nbsp;**GitHub**&nbsp;&nbsp; - &nbsp; <a href="https://github.com/darkicewolf50" rel="me">darkicewolf50</a>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin" />&nbsp;&nbsp;**LinkedIn**&nbsp;&nbsp; - &nbsp; <a href="https://www.linkedin.com/in/brock-tomlinson" rel="me">brock-tomlinson</a>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="20" height="20" alt="twitch" />&nbsp;&nbsp;**Twitch**&nbsp;&nbsp; - &nbsp; <a href="https://www.twitch.tv/darkicewolf50" rel="me">darkicewolf50</a>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="20" height="20" alt="youtube" />&nbsp;&nbsp;**YouTube**&nbsp;&nbsp; - &nbsp; <a href="https://www.youtube.com/@darkicewolf50" rel="me">@darkicewolf50</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="20" height="20" alt="twitter" />&nbsp;&nbsp;**X**&nbsp;&nbsp; - &nbsp; <a href="https://x.com/darkicewolf50" rel="me">darkicewolf50</a>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="20" height="20" alt="ko-fi" />&nbsp;&nbsp;
+  **Ko-fi**&nbsp;&nbsp; - &nbsp; <a href="https://ko-fi.com/darkicewolf50" rel="me">darkicewolf50</a>
 
 <br clear="both">
 
