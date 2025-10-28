@@ -109,6 +109,7 @@
 
 ## Socials
 
+- <img src="https://darkicewolf50.dev/favicon.png" width="20" height="20" alt="darkicewolf50 website logo">&nbsp;&nbsp;**Website**&nbsp;&nbsp; - &nbsp; <a href="https://darkicewolf50.dev" rel="me">darkicewolf50.dev</a>
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail" />&nbsp;&nbsp;**Email**&nbsp;&nbsp; - &nbsp; <a href="mailto:brock@darkicewolf50.dev" rel="me">brock@darkicewolf50.dev</a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/forgejo/forgejo-original.svg" width="20" height="20" alt="forgejo" />&nbsp;&nbsp;**Forgejo**&nbsp;&nbsp; - &nbsp; <a href="https://forge.ucalgarybaja.ca/darkicewolf50" rel="me">darkicewolf50</a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" alt="github" />&nbsp;&nbsp;**GitHub**&nbsp;&nbsp; - &nbsp; <a href="https://github.com/darkicewolf50" rel="me">darkicewolf50</a>
