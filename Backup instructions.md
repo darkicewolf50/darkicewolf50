@@ -10,3 +10,12 @@ curl -O https://forge.ucalgarybaja.ca/darkicewolf50/.profile/raw/branch/master/y
 # Import into GPG
 gpg --import yubikey-public.gpg
 ```
+
+```bash
+gpg --card-status
+```
+
+```bash
+git config --global user.signingkey F69EAF4A
+git config --global commit.gpgsign true
+```
