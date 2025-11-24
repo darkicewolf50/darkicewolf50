@@ -20,6 +20,6 @@ gpg --card-status
 ```
 
 ```bash
-git config --global user.signingkey F69EAF4A
+git config --global user.signingkey 48489624F69EAF4A
 git config --global commit.gpgsign true
 ```
